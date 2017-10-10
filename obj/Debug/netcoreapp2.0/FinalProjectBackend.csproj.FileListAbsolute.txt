@@ -1,0 +1,11 @@
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\bin\Debug\netcoreapp2.0\FinalProjectBackend.deps.json
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\bin\Debug\netcoreapp2.0\FinalProjectBackend.runtimeconfig.json
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\bin\Debug\netcoreapp2.0\FinalProjectBackend.runtimeconfig.dev.json
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\bin\Debug\netcoreapp2.0\FinalProjectBackend.dll
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\obj\Debug\netcoreapp2.0\FinalProjectBackend.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\obj\Debug\netcoreapp2.0\FinalProjectBackend.AssemblyInfoInputs.cache
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\obj\Debug\netcoreapp2.0\FinalProjectBackend.AssemblyInfo.cs
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\bin\Debug\netcoreapp2.0\FinalProjectBackend.pdb
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\obj\Debug\netcoreapp2.0\FinalProjectBackend.dll
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\obj\Debug\netcoreapp2.0\FinalProjectBackend.pdb
+C:\Users\ryanb\Desktop\School\FinalProjectBackend\FinalProjectBackend\obj\Debug\netcoreapp2.0\FinalProjectBackend.csprojResolveAssemblyReference.cache
